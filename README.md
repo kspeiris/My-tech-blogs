@@ -1,6 +1,3 @@
-Here is a **professional README** for your *single repo blog collection*.
-You can copy–paste this directly into your repo `README.md`.
-
 ---
 
 # ✍️ Technical Blog Collection
@@ -33,11 +30,8 @@ I use writing as a way to:
 
 | Article                                                                      | Description                                                                |
 | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| 📌 [Beginner Guide to Dexie.js](dexiejs-guide.md)                            | Learn how Dexie.js simplifies IndexedDB and enables offline-first web apps |
-| 📌 [Building a Job Application Tracker using Dexie.js](job-tracker-dexie.md) | Step-by-step guide explaining my real project and implementation           |
-| 📌 [Understanding IndexedDB for Beginners](indexeddb-basics.md)              | Introduction to browser databases and offline storage                      |
+| 📌 [Dexie.js: Build Real Database-Powered Web Apps](dexiejs-guide.md)                            | Dexie.js turns IndexedDB into a developer‑friendly powerhouse, enabling offline‑first web apps like JobTrackr without the need for a backend. |
 
-*(Add new blogs here as you publish them)*
 
 ---
 
