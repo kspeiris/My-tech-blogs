@@ -41,18 +41,7 @@ I use writing as a way to:
 
 ---
 
-## 🗂 Repository Structure
 
-```
-tech-blogs/
-│
-├── README.md
-├── dexiejs-guide.md
-├── job-tracker-dexie.md
-├── indexeddb-basics.md
-│
-└── images/
-```
 
 Each article includes:
 
@@ -82,8 +71,8 @@ This repository serves as my **knowledge base** and **learning journal** where I
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn: [https://linkedin.com/in/YOUR_LINK](https://linkedin.com/in/YOUR_LINK)
-* ✍️ Medium: [https://medium.com/@YOUR_USERNAME](https://medium.com/@YOUR_USERNAME)
+* 💼 LinkedIn: https://www.linkedin.com/in/kavindu-peiris-149375297
+* ✍️ Medium: https://medium.com/@kavindup52
 * 💻 GitHub: [https://github.com/kspeiris](https://github.com/kspeiris)
 
 ---
