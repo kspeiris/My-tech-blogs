@@ -5,6 +5,9 @@
 Welcome to my **Engineering Writing Hub** 📚
 This repository contains all of my technical articles originally published on Medium, rewritten in Markdown and organized for easy reading on GitHub.
 
+![Technical Blog Hero](hero.png)
+
+
 I write about **Web Development, JavaScript, Software Engineering, and my project experiences.**
 
 🌐 **Read on Medium:** https://medium.com/@kavindup52
