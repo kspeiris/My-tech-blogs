@@ -33,7 +33,7 @@ I use writing as a way to:
 
 | Article                                                                      | Description                                                                |
 | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| 📌 [Dexie.js: Build Real Database-Powered Web Apps](dexiejs-guide.md)                            | Dexie.js turns IndexedDB into a developer‑friendly powerhouse, enabling offline‑first web apps like JobTrackr without the need for a backend. |
+| 📌 [Dexie.js: Build Real Database-Powered Web Apps](Dexie.js_Build_Real_Database.md)                            | Dexie.js turns IndexedDB into a developer‑friendly powerhouse, enabling offline‑first web apps like JobTrackr without the need for a backend. |
 
 
 ---
