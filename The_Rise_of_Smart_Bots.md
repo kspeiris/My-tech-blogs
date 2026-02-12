@@ -1,6 +1,10 @@
 # 📈 The Rise of Smart Bots: Why CAPTCHA Is No Longer Enough  
 ## Modern Bot Detection Series — Part 1
 
+> 📖 Originally published on Medium  
+> https://medium.com/@kavindup52
+
+![Image 1](Images/The_Rise_of_Smart_Bots/Cap1.png)
 ---
 
 ## 🌐 The internet is no longer a human-dominated space
@@ -9,11 +13,15 @@ The internet is no longer a human-dominated space.
 
 Recent industry reports reveal a striking reality: **automated traffic now accounts for over 51% of all web traffic**, surpassing human activity for the first time. Bad bots alone make up around **37%** of internet traffic, according to Imperva's 2025 Bad Bot Report. Meanwhile, AI-specific bots are surging some estimates show AI bot visits rising dramatically, with ratios shifting from 1 in 200 to 1 in 31 human visits in certain datasets by late 2025.
 
+![Image 1](Images/The_Rise_of_Smart_Bots/Cap2.png)
+
 While legitimate bots (like search engine crawlers) play a valuable role, malicious ones are causing widespread harm. They create fake accounts en masse, scrape proprietary data, spam platforms, and manipulate algorithms at scale.
 
 The most alarming development? Modern bots increasingly **behave like real humans**.
 
 ## 🤖 From Simple Scripts to Human-Like Automation
+
+![Image 1](Images/The_Rise_of_Smart_Bots/Cap3.png)
 
 Early web bots were primitive and easy to spot. They:
 
@@ -29,6 +37,8 @@ Classic defenses handled these threats effectively:
 - Strict rate limiting
 - Basic device fingerprinting (e.g., user-agent strings, headers)
 
+![Image 1](Images/The_Rise_of_Smart_Bots/Cap4.png)
+
 But automation has advanced dramatically. Tools like **Selenium**, **Puppeteer**, and headless browser frameworks now enable bots to run inside genuine browser environments. Today's sophisticated bots can:
 
 - Simulate natural mouse curves, hesitations, and trajectories
@@ -41,6 +51,8 @@ But automation has advanced dramatically. Tools like **Selenium**, **Puppeteer**
 They've moved far beyond raw HTTP requests they **emulate full user sessions**.
 
 ## 🔐 Why CAPTCHA Is No Longer Sufficient
+
+![Image 1](Images/The_Rise_of_Smart_Bots/Cap5.png)
 
 For years, CAPTCHA stood as the cornerstone of bot prevention. Its premise was straightforward:  
 *"Bots struggle to interpret distorted text or select images correctly."*
@@ -58,6 +70,8 @@ Most critically, CAPTCHA is a **point-in-time check**. It captures a single inte
 
 In today's threat landscape, that's a fatal limitation.
 
+![Image 1](Images/The_Rise_of_Smart_Bots/Cap6.png)
+
 ## 🧠 The Shift Toward Behavioral Detection
 
 If bots can convincingly fake identities and fingerprints, focusing solely on *"who"* is asking is no longer enough.
@@ -74,11 +88,15 @@ Behavioral fingerprinting tracks subtle, hard to spoof signals across sessions:
 - Scrolling speed, pauses, and depth
  Session length, navigation paths, and interaction variability
 
+![Image 1](Images/The_Rise_of_Smart_Bots/Cap7.png)
+
 Humans are inherently inconsistent and imperfect. Even heavily randomized bots tend to leave statistical artifacts—especially over extended sessions or high volume operations. Behavior is far more difficult to mimic perfectly at scale.
 
 ## 🕸️ The Emergence of Coordinated Bot Attacks
 
 Isolated bots are problematic. **Coordinated swarms** are catastrophic.
+
+![Image 1](Images/The_Rise_of_Smart_Bots/Cap8.png)
 
 In large scale attacks:
 
@@ -92,6 +110,8 @@ Alone, they blend in. Together, anomalies surface: synchronized timing, similar 
 Detection must evolve beyond per session anomalies to **collective pattern recognition**—spotting orchestration across users, devices, and time.
 
 ## ⚡ The Real Challenge: Real Time Detection
+
+![Image 1](Images/The_Rise_of_Smart_Bots/Cap9.png)
 
 Modern web and mobile apps demand:
 
@@ -117,6 +137,8 @@ The next generation of defenses centers on:
 Security is no longer about blocking requests it's about **understanding intent** through behavior.
 
 Bots are evolving rapidly, powered by accessible AI tools. Detection systems must outpace them.
+
+![Image 1](Images/The_Rise_of_Smart_Bots/Cap10.png)
 
 ## 🏁 Final Thoughts
 
