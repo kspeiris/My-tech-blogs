@@ -1,4 +1,6 @@
 # 🚀 Modern ERP Systems in 2026: A Functional Overview
+> 📖 Originally published on Medium  
+> https://medium.com/@kavindup52
 
 ![Image](Images/Modern%20ERP%20Systems%20in%202026/MES1.webp)
 
