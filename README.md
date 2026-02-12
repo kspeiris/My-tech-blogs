@@ -25,21 +25,6 @@ I use writing as a way to:
 * Help other developers learn faster
 * Build in public 🚀
 
----
-
-## 📚 Articles
-
-### 🟢 JavaScript & Web Development
-
-| Article                                                                      | Description                                                                |
-| ---------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| 📌 [Dexie.js: Build Real Database-Powered Web Apps](Dexie.js_Build_Real_Database.md)                            | Dexie.js turns IndexedDB into a developer‑friendly powerhouse, enabling offline‑first web apps like JobTrackr without the need for a backend. |
-
-
----
-
-
-
 Each article includes:
 
 * Clean Markdown formatting
