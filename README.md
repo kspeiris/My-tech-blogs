@@ -39,7 +39,10 @@ Each article includes:
 Technical writing is an essential skill for engineers.
 This repository serves as my **knowledge base** and **learning journal** where I document concepts, tools, and project experiences.
 
-1). [Modern ERP Systems in 2026: A Functional Overview](A_Functional_Overview_of_Modern_ERP_Systems.md)
+1. [Modern ERP Systems in 2026: A Functional Overview](A_Functional_Overview_of_Modern_ERP_Systems.md)
+2. [Dexie.js: Build Real Database-Powered Web Apps — No Backend Required](Dexie.js_Build_Real_Database.md)
+3. [Modern Bot Detection Series — Part 1-The Rise of Smart Bots— Why CAPTCHA Is No Longer Enough](The_Rise_of_Smart_Bots.md)
+
 ---
 
 ## 🚀 Topics I Write About
