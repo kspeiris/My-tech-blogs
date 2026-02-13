@@ -39,6 +39,7 @@ Each article includes:
 Technical writing is an essential skill for engineers.
 This repository serves as my **knowledge base** and **learning journal** where I document concepts, tools, and project experiences.
 
+1). [Modern ERP Systems in 2026: A Functional Overview](A_Functional_Overview_of_Modern_ERP_Systems.md)
 ---
 
 ## 🚀 Topics I Write About
