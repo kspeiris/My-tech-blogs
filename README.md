@@ -43,6 +43,7 @@ This repository serves as my **knowledge base** and **learning journal** where I
 2. [Dexie.js: Build Real Database-Powered Web Apps — No Backend Required](Dexie.js_Build_Real_Database.md)
 3. [Modern Bot Detection Series — Part 1-The Rise of Smart Bots— Why CAPTCHA Is No Longer Enough](The_Rise_of_Smart_Bots.md)
 4. [The Death of jQuery? Not Really.](The_Death_of_jQuery_Not_Really.md)
+5. [JavaScript vs TypeScript](JavaScript_vs_TypeScript.md)
 
 ---
 
