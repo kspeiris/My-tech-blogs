@@ -1,6 +1,9 @@
 # Understanding Coordinated Bot Attacks in Modern Applications
 🕸 Modern Bot Detection Series - Part 2
 
+📖 Originally published on Medium  
+> https://medium.com/@kavindup52/modern-bot-detection-series-part-2-01fa84ae551f
+
 ![Coordinated Bot Attack](Images/Understanding_Coordinated_Bot_Attacks_in_Modern_Applications/co1.png)
 
 
