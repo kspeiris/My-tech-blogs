@@ -1,6 +1,9 @@
 # Understanding Coordinated Bot Attacks in Modern Applications
 🕸 Modern Bot Detection Series - Part 2
 
+![Coordinated Bot Attack](Images/Understanding_Coordinated_Bot_Attacks_in_Modern_Applications/co1.png)
+
+
 In **Part 1**, we explored how bots have evolved beyond basic scripts and why simple CAPTCHA checks are no longer sufficient.
 
 Now, let's dive deeper.
@@ -8,6 +11,9 @@ Now, let's dive deeper.
 The major threat in 2026 isn't solitary bots it's **coordinated bot attacks**. These are larger, smarter, and far harder to detect than ever before.
 
 ## 🤖 What Is a Coordinated Bot Attack?
+
+![Coordinated Bot Attack](Images/Understanding_Coordinated_Bot_Attacks_in_Modern_Applications/co2.png)
+
 
 A coordinated bot attack occurs when multiple automated programs collaborate toward a single objective.
 
@@ -27,6 +33,9 @@ Individually, each bot mimics real human behavior.
 But collectively, clear numerical and behavioral patterns emerge—patterns that single-session detection tools miss.
 
 ## 🌐 How Coordinated Bots Operate in 2026
+
+![Coordinated Bot Attack](Images/Understanding_Coordinated_Bot_Attacks_in_Modern_Applications/co3.png)
+
 
 Today's bot swarms are powered by advanced infrastructure and techniques:
 
@@ -49,6 +58,9 @@ The outcome? Bot traffic that can appear **more human-like** than actual human t
 
 ## 🔍 Why Traditional Detection Fails — 2026 Edition
 
+![Coordinated Bot Attack](Images/Understanding_Coordinated_Bot_Attacks_in_Modern_Applications/co4.png)
+
+
 Legacy defenses are crumbling:
 
 - **IP blacklisting** → Ineffective against rotating residential proxies
@@ -61,6 +73,9 @@ During the 2025 holiday season, massive bot activity hit e-commerce and ticketin
 The core problem: Traditional tools analyze **one session at a time**. Coordinated attacks thrive on **scale and distribution**.
 
 ## 📊 The Power of Collective Patterns (The 2026 Reality)
+
+![Coordinated Bot Attack](Images/Understanding_Coordinated_Bot_Attacks_in_Modern_Applications/co5.png)
+
 
 The key insight transforming bot defense:
 
@@ -81,6 +96,9 @@ We must shift from per-session checks to **large-scale pattern and correlation a
 
 ## 🧠 Behavioral Correlation as a Defense Strategy
 
+![Coordinated Bot Attack](Images/Understanding_Coordinated_Bot_Attacks_in_Modern_Applications/co6.png)
+
+
 Leading platforms in 2026 succeed by analyzing group-level behaviors:
 
 - Cross-session matching of interaction styles (mouse wobble, keystroke timing, scroll patterns)
@@ -94,6 +112,9 @@ Even AI-powered bots struggle at massive scale: When thousands run from similar 
 
 ## ⚡ Real-Time Detection Challenges in 2026
 
+![Coordinated Bot Attack](Images/Understanding_Coordinated_Bot_Attacks_in_Modern_Applications/co7.png)
+
+
 Implementing this live is hard:
 
 - Processing massive streams of behavioral data
@@ -105,6 +126,9 @@ Implementing this live is hard:
 Modern systems run lightweight edge detection, use federated learning for updates, and avoid storing sensitive user data.
 
 ## 🛡 Why This Matters for Every Developer in 2026
+
+![Coordinated Bot Attack](Images/Understanding_Coordinated_Bot_Attacks_in_Modern_Applications/co8.png)
+
 
 Think bots only target big companies? Think again.
 
@@ -119,6 +143,8 @@ With cheap residential proxies and AI orchestration, mid-sized applications are 
 
 ## 🔮 The Direction of Modern Defense
 
+![Coordinated Bot Attack](Images/Understanding_Coordinated_Bot_Attacks_in_Modern_Applications/co9.png)
+
 We're moving from:
 
 - Static rules → Adaptive, always-on behavioral analysis
@@ -128,6 +154,9 @@ We're moving from:
 Fighting coordinated bots is now about uncovering **hidden numerical signals** in seemingly normal traffic.
 
 ## 🏁 Final Thoughts
+
+![Coordinated Bot Attack](Images/Understanding_Coordinated_Bot_Attacks_in_Modern_Applications/co10.png)
+
 
 Bots have evolved from lone scripts into massive, coordinated ecosystems powered by residential proxies, AI mimicry, and real-time orchestration.
 
