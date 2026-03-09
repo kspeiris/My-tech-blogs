@@ -45,6 +45,8 @@ This repository serves as my **knowledge base** and **learning journal** where I
 4. [The Death of jQuery? Not Really.](The_Death_of_jQuery_Not_Really.md)
 5. [JavaScript vs TypeScript](JavaScript_vs_TypeScript.md)
 6. [Modern Bot Detection Series — Part 2-Understanding Coordinated Bot Attacks in Modern Applications](Understanding_Coordinated_Bot_Attacks_in_Modern_Applications.md)
+7. [Why Developers Should Learn Business Skills](Why_Developers_Should_Learn_Business_Skills.md)
+8. [The Rise of AI-Assisted Development](The_Rise_of_AI-Assisted_Development.md)
 
 ---
 

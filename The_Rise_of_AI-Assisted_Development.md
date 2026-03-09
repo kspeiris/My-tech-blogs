@@ -1,5 +1,8 @@
-# The Rise of AI-Assisted Development in 2026
+# The Rise of AI-Assisted Development
 ### How AI is changing the way developers build software
+
+> 📖 Originally published on Medium  
+> https://medium.com/@kavindup52/the-rise-of-ai-assisted-development-in-2026-78ed80966c7f
 
 ---
 ![images](Images/The_Rise_of_AI-Assisted_Development/ri1.png)

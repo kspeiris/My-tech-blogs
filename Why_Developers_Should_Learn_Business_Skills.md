@@ -1,5 +1,8 @@
 # Why Developers Should Learn Business Skills
 
+> 📖 Originally published on Medium  
+> https://medium.com/@kavindup52/why-developers-should-learn-business-skills-in-2026-1528a739064d
+
 ![Image](Images/Why_Developers_Should_Learn_Business_Skills/bu1.png)
 
 In today's tech industry, writing clean code is no longer enough. The developers who advance fastest, earn more, and build meaningful products are not just technical experts; they understand business.
