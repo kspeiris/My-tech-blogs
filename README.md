@@ -47,6 +47,7 @@ This repository serves as my **knowledge base** and **learning journal** where I
 6. [Modern Bot Detection Series — Part 2-Understanding Coordinated Bot Attacks in Modern Applications](Understanding_Coordinated_Bot_Attacks_in_Modern_Applications.md)
 7. [Why Developers Should Learn Business Skills](Why_Developers_Should_Learn_Business_Skills.md)
 8. [The Rise of AI-Assisted Development](The_Rise_of_AI-Assisted_Development.md)
+9. [Behavioral Fingerprinting: Spotting Bots by How They Act](Behavioral_Fingerprinting_Spotting Bots_by_How_They_Act.md)
 
 ---
 
