@@ -5,6 +5,8 @@
 
 ![images](Images/Behavioral_Fingerprinting_Spotting_Bots_by_How_They_Act/fi1.png)
 
+> 📖 Originally published on Medium  
+> https://medium.com/@kavindup52/modern-bot-detection-series-part-3-16a82a38e89a
 
 In Part 1 we learned today's bots pretend to be real people very well. In Part 2 we saw big groups of bots attacking sites together.
 

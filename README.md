@@ -48,7 +48,7 @@ This repository serves as my **knowledge base** and **learning journal** where I
 8. [The Rise of AI-Assisted Development](The_Rise_of_AI-Assisted_Development.md)
 9. [Modern Bot Detection Series - Part 3: Behavioral Fingerprinting](Behavioral_Fingerprinting_Spotting%20Bots_by_How_They_Act.md)
 10. [Are Frameworks Making Developers Worse?](Are_Frameworks_Making_Developers_Worse.md)
-
+11. [Modern Bot Detection Series - Part 4: Machine Learning for Bot Detection](Machine_Learning_for_Bot_Detection.md)
 ---
 
 ## Topics I Write About
