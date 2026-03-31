@@ -3,8 +3,8 @@
 ![Image](Images/Are_Frameworks_Making_Developers_Worse/framehero.png)
 
 
-> 📖 Originally published on Medium  
-> https://medium.com/@kavindup52/are-frameworks-making-developers-worse-6fb468ca164b
+> 📖 Originally publised on Medium  
+> https://medium.com/@kavindup52/are-frameworks-making-developers-worse-6fb468ca164bh
 
 ![Image](Images/Are_Frameworks_Making_Developers_Worse/fr1.png)
 In today's world of building software, frameworks are everywhere. Tools like Angular, React, and Vue.js for the front part of apps, and Spring Boot and Django for the back part, help create most apps we use. They make things easier and faster. But here's a big question: Do these tools make developers less good at their job? This idea makes us think hard about how tech is changing. Let's look at both sides with easy examples and fair views to help you decide.

@@ -51,6 +51,7 @@ This repository serves as my **knowledge base** and **learning journal** where I
 11. [Modern Bot Detection Series - Part 4: Machine Learning for Bot Detection](Machine_Learning_for_Bot_Detection.md)
 12. [The Hidden Cost of "Modern JavaScript"](The_Hidden_Cost_of_“Modern_JavaScript”.md)
 13. [Modern Bot Detection Series - Part 5: Cross-Platform Bot Detection](Cross-Platform_Bot_Detection.md)
+14. [Building Enterprise UI Components That Scale](Building_Enterprise_UI_Components_That_Scale.md)
 ---
 
 ## Topics I Write About
