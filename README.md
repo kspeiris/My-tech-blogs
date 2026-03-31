@@ -49,6 +49,8 @@ This repository serves as my **knowledge base** and **learning journal** where I
 9. [Modern Bot Detection Series - Part 3: Behavioral Fingerprinting](Behavioral_Fingerprinting_Spotting%20Bots_by_How_They_Act.md)
 10. [Are Frameworks Making Developers Worse?](Are_Frameworks_Making_Developers_Worse.md)
 11. [Modern Bot Detection Series - Part 4: Machine Learning for Bot Detection](Machine_Learning_for_Bot_Detection.md)
+12. [The Hidden Cost of "Modern JavaScript"](The_Hidden_Cost_of_“Modern_JavaScript”.md)
+13. [Modern Bot Detection Series - Part 5: Cross-Platform Bot Detection](Cross-Platform_Bot_Detection.md)
 ---
 
 ## Topics I Write About
