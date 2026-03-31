@@ -2,7 +2,7 @@
 > 📖 Originally published on Medium  
 > https://medium.com/@kavindup52
 
-![Image](Images/Modern%20ERP%20Systems%20in%202026/MES1.webp)
+![Image](../Images/Modern%20ERP%20Systems%20in%202026/MES1.webp)
 
 ## 📝 Introduction
 
@@ -16,7 +16,7 @@ This blog provides a functional overview of modern ERP systems, explaining their
 
 An ERP system is a centralized platform that integrates multiple business functions into a unified database and interface. It eliminates data silos, ensures a single source of truth, standardizes processes, and supports both operational execution and strategic decision-making.
 
-![Image](Images/Modern%20ERP%20Systems%20in%202026/MES2.webp)
+![Image](../Images/Modern%20ERP%20Systems%20in%202026/MES2.webp)
 
 **Core principles in 2026**:
 
@@ -27,7 +27,7 @@ An ERP system is a centralized platform that integrates multiple business functi
 
 ## 🧩 Core Functional Modules of Modern ERP Systems
 
-![Image](Images/Modern%20ERP%20Systems%20in%202026/MES3.webp)
+![Image](../Images/Modern%20ERP%20Systems%20in%202026/MES3.webp)
 
 ### 💰 Finance and Accounting Management
 The foundational module for financial accuracy, compliance, and visibility.
@@ -94,7 +94,7 @@ Essential for project-oriented or services businesses.
 
 ## 🔗 Cross-Functional Capabilities of Modern ERP Systems
 
-![Image](Images/Modern%20ERP%20Systems%20in%202026/MES4.webp)
+![Image](../Images/Modern%20ERP%20Systems%20in%202026/MES4.webp)
 
 ### 📊 Business Intelligence and Analytics
 Embedded tools turn data into insights.
@@ -114,7 +114,7 @@ Automates approvals, notifications, and increasingly complex multi-step processe
 
 ## ☁️ Cloud-Based and Intelligent ERP Systems in 2026
 
-![Image](Images/Modern%20ERP%20Systems%20in%202026/MES5.webp)
+![Image](../Images/Modern%20ERP%20Systems%20in%202026/MES5.webp)
 
 Modern ERPs are predominantly cloud-native (SaaS), enabling automatic updates, elastic scalability, and lower TCO.
 
@@ -135,7 +135,7 @@ Modern ERPs are predominantly cloud-native (SaaS), enabling automatic updates, e
 
 These vendors exemplify the shift toward intelligent, adaptable platforms.
 
-![Image](Images/Modern%20ERP%20Systems%20in%202026/MES6.webp)
+![Image](../Images/Modern%20ERP%20Systems%20in%202026/MES6.webp)
 
 ## 🎯 Benefits of Implementing a Modern ERP System
 

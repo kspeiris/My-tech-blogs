@@ -3,7 +3,7 @@
 > 📖 Originally published on Medium  
 > https://medium.com/@kavindup52
 
-![Image](Images/Dexie.js_Build_Real_Database/Dex1.webp)
+![Image](../Images/Dexie.js_Build_Real_Database/Dex1.webp)
 
 Most modern web apps lean on backend databases like PostgreSQL, MongoDB, or Firebase for data persistence.  
 But what if your app could store, query, and manage structured data entirely in the browser, work offline, feel snappy, and still behave like a real database app?
@@ -36,7 +36,7 @@ It’s full of event handlers, version upgrades, cursors, and boilerplate.
 
 That’s exactly what Dexie.js fixes.
 
-![Image](Images/Dexie.js_Build_Real_Database/Dex2.webp)
+![Image](../Images/Dexie.js_Build_Real_Database/Dex2.webp)
 
 ---
 
@@ -91,7 +91,7 @@ Dexie works with:
 
 LocalStorage is for preferences.
 Dexie is for **real apps**.
-![Image](Images/Dexie.js_Build_Real_Database/Dex3.webp)
+![Image](../Images/Dexie.js_Build_Real_Database/Dex3.webp)
 ---
 
 # 🛠️ Quick Start with Dexie
@@ -147,7 +147,7 @@ await db.jobs.delete(jobId);
 
 No backend. No APIs. Instant local operations.
 
-![Image](Images/Dexie.js_Build_Real_Database/Dex4.webp)
+![Image](../Images/Dexie.js_Build_Real_Database/Dex4.webp)
 
 ---
 
@@ -158,7 +158,7 @@ No backend. No APIs. Instant local operations.
 
 🔗 Live demo: https://jobtrackr-peiris.netlify.app
 
-![Image](Images/Dexie.js_Build_Real_Database/Dex5.webp)
+![Image](../Images/Dexie.js_Build_Real_Database/Dex5.webp)
 **JobTrackr** is a Kanban-style job application tracker that runs **100% in the browser**.
 
 ### Features
@@ -171,7 +171,7 @@ No backend. No APIs. Instant local operations.
 * Fully offline
 * Built with **Vite + Tailwind + Vanilla JS**
 
-![Image](Images/Dexie.js_Build_Real_Database/Dex6.webp)
+![Image](../Images/Dexie.js_Build_Real_Database/Dex6.webp)
 
 ### Why Dexie was perfect
 
@@ -201,7 +201,7 @@ Modern users expect apps to:
 
 Dexie makes this possible **without a backend**.
 
-![Image](Images/Dexie.js_Build_Real_Database/Dex7.webp)
+![Image](../Images/Dexie.js_Build_Real_Database/Dex7.webp)
 
 ---
 
@@ -239,7 +239,7 @@ Perfect for:
 * PWAs
 * Offline mini-apps
 
-![Image](Images/Dexie.js_Build_Real_Database/Dex8.webp)
+![Image](../Images/Dexie.js_Build_Real_Database/Dex8.webp)
 
 👉 Check out JobTrackr:
 [https://github.com/kspeiris/JobTrackr_Mini-Project](https://github.com/kspeiris/JobTrackr_Mini-Project)

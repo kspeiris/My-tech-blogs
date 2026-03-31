@@ -2,7 +2,7 @@
 
 ## Machine Learning for Bot Detection: From Behavioral Data to Intelligent Classification
 
-![Images](Images/Machine_Learning_for_Bot_Detection/ma1.png)
+![Images](../Images/Machine_Learning_for_Bot_Detection/ma1.png)
 
 > Originally published on Medium  
 > https://medium.com/@kavindup52/modern-bot-detection-series-part-4-259439288324
@@ -19,7 +19,7 @@ This is where machine learning takes center stage. ML does not just spot obvious
 
 ## Why Rule-Based Systems Are Falling Behind Fast
 
-![Images](Images/Machine_Learning_for_Bot_Detection/ma2.png)
+![Images](../Images/Machine_Learning_for_Bot_Detection/ma2.png)
 
 Classic rules still appear in many systems:
 
@@ -40,7 +40,7 @@ ML wins by modeling dozens of features together, capturing statistical anomalies
 
 ## From Raw Events to Powerful Feature Vectors
 
-![Images](Images/Machine_Learning_for_Bot_Detection/ma3.png)
+![Images](../Images/Machine_Learning_for_Bot_Detection/ma3.png)
 
 Raw click, mouse, scroll, and keystroke streams become numerical features per session:
 
@@ -64,7 +64,7 @@ This format unlocks powerful classifiers that see patterns invisible to rule wri
 
 ## Random Forest - The Reliable Baseline
 
-![Images](Images/Machine_Learning_for_Bot_Detection/ma4.png)
+![Images](../Images/Machine_Learning_for_Bot_Detection/ma4.png)
 
 Random Forest is an ensemble of decision trees:
 
@@ -85,7 +85,7 @@ It is still a go-to baseline in 2025-2026 research, often combined with Isolatio
 
 ## XGBoost - The Performance King
 
-![Images](Images/Machine_Learning_for_Bot_Detection/ma5.png)
+![Images](../Images/Machine_Learning_for_Bot_Detection/ma5.png)
 
 XGBoost (Extreme Gradient Boosting):
 
@@ -125,7 +125,7 @@ In real-world systems, tree-based models usually dominate because of scalability
 
 ## The Metrics That Actually Matter
 
-![Images](Images/Machine_Learning_for_Bot_Detection/ma6.png)
+![Images](../Images/Machine_Learning_for_Bot_Detection/ma6.png)
 
 Accuracy alone is misleading, especially with class imbalance.
 
@@ -161,7 +161,7 @@ Still, the benefit is clear: adaptive detection beyond static rules.
 
 ## Real-Time Deployment Reality Check
 
-![Images](Images/Machine_Learning_for_Bot_Detection/ma7.png)
+![Images](../Images/Machine_Learning_for_Bot_Detection/ma7.png)
 
 Production constraints:
 
@@ -196,7 +196,7 @@ Behavioral fingerprinting gives us rich data. Machine learning turns it into int
 
 Together, they create adaptive systems capable of defending against modern, AI-powered bot attacks.
 
-![Images](Images/Machine_Learning_for_Bot_Detection/ma8.png)
+![Images](../Images/Machine_Learning_for_Bot_Detection/ma8.png)
 
 Future directions:
 
@@ -204,7 +204,7 @@ Future directions:
 - Sequence models such as LSTM and Transformers
 - Meta-learning for rapid adaptation
 
-![Images](Images/Machine_Learning_for_Bot_Detection/ma9.png)
+![Images](../Images/Machine_Learning_for_Bot_Detection/ma9.png)
 
 ---
 
@@ -218,6 +218,6 @@ Future directions:
 
 ---
 
-![Images](Images/Machine_Learning_for_Bot_Detection/ma10.png)
+![Images](../Images/Machine_Learning_for_Bot_Detection/ma10.png)
 
 Stay tuned, things are only getting more interesting.

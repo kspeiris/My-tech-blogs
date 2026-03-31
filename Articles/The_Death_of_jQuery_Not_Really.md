@@ -3,7 +3,7 @@
 > 📖 Originally published on Medium  
 > https://medium.com/@kavindup52/️-the-death-of-jquery-not-really-c3cae8531f32
 
-![Image](Images/The%20Death%20of%20jQuery%20Not%20Really/jq1.png)
+![Image](../Images/The%20Death%20of%20jQuery%20Not%20Really/jq1.png)
 
 In the fast-changing world of web development, few tools have sparked as much debate as jQuery.  
 Released in 2006 by John Resig, it quickly became one of the most important JavaScript libraries ever created.  
@@ -18,7 +18,7 @@ Let’s explore the full story in depth.
 ---
 
 ## 🌍 The Web Before jQuery (Why It Was Needed)
-![Image](Images/The%20Death%20of%20jQuery%20Not%20Really/jq2.png)
+![Image](../Images/The%20Death%20of%20jQuery%20Not%20Really/jq2.png)
 
 To understand why jQuery still matters, we must go back in time.  
 In the early 2000s, web development was messy and painful.  
@@ -44,7 +44,7 @@ Then jQuery arrived — and everything changed.
 ---
 
 ## 🚀 How jQuery Changed Web Development Forever
-![Image](Images/The%20Death%20of%20jQuery%20Not%20Really/Jq3.png)
+![Image](../Images/The%20Death%20of%20jQuery%20Not%20Really/Jq3.png)
 
 jQuery solved the biggest pain points of JavaScript.  
 It made tasks simple and readable:
@@ -74,7 +74,7 @@ At one point, learning JavaScript almost meant learning jQuery first.
 ---
 
 ## 🔁 The Technology Cycle (Why Things Are Declared “Dead”)
-![Image](Images/The%20Death%20of%20jQuery%20Not%20Really/jq4.png)
+![Image](../Images/The%20Death%20of%20jQuery%20Not%20Really/jq4.png)
 
 In tech, history repeats itself.  
 Every decade, developers claim old tools are dead:
@@ -94,7 +94,7 @@ Websites, apps, and enterprise systems don’t disappear just because new tools 
 ---
 
 ## 💀 Why People Say jQuery Is Dead
-![Image](Images/The%20Death%20of%20jQuery%20Not%20Really/jq5.png)
+![Image](../Images/The%20Death%20of%20jQuery%20Not%20Really/jq5.png)
 
 Let’s look honestly at the reasons.
 
@@ -162,7 +162,7 @@ This created a generational gap.
 ---
 
 ## 📊 The Reality: jQuery Still Dominates the Web
-![Image](Images/The%20Death%20of%20jQuery%20Not%20Really/jq6.png)
+![Image](../Images/The%20Death%20of%20jQuery%20Not%20Really/jq6.png)
 
 Here is the shocking truth:
 
@@ -183,7 +183,7 @@ That’s massive real-world usage.
 ---
 
 ## 🎉 jQuery 4.0 Released in 2026
-![Image](Images/The%20Death%20of%20jQuery%20Not%20Really/jq7.png)
+![Image](../Images/The%20Death%20of%20jQuery%20Not%20Really/jq7.png)
 
 Many people think jQuery stopped evolving.  
 But in January 2026:  
@@ -202,7 +202,7 @@ This shows something important:
 ---
 
 ## 🏢 The Hidden World of Legacy Systems
-![Image](Images/The%20Death%20of%20jQuery%20Not%20Really/jq8.png)
+![Image](../Images/The%20Death%20of%20jQuery%20Not%20Really/jq8.png)
 
 Here is something many new developers don’t realize.  
 Most developers don’t build brand-new apps every day. Instead, they:
@@ -221,7 +221,7 @@ This is why jQuery remains valuable.
 ---
 
 ## 🧓 jQuery: The “COBOL of Frontend”
-![Image](Images/The%20Death%20of%20jQuery%20Not%20Really/jq9.png)
+![Image](../Images/The%20Death%20of%20jQuery%20Not%20Really/jq9.png)
 
 Some developers call jQuery:  
 👉 The COBOL of the frontend
@@ -241,7 +241,7 @@ And maintenance mode can last decades.
 ---
 
 ## 🛠️ When You SHOULD Use jQuery in 2026
-![Image](Images/The%20Death%20of%20jQuery%20Not%20Really/jq10.png)
+![Image](../Images/The%20Death%20of%20jQuery%20Not%20Really/jq10.png)
 jQuery is not for every project — but it still shines in many situations.
 
 ### 🔧 1. Maintaining Existing Projects
@@ -279,7 +279,7 @@ This saves debugging time.
 ---
 
 ## ⚖️ When You SHOULD NOT Use jQuery
-![Image](Images/The%20Death%20of%20jQuery%20Not%20Really/jq11.png)
+![Image](../Images/The%20Death%20of%20jQuery%20Not%20Really/jq11.png)
 
 Let’s be balanced.  
 Avoid jQuery for:
@@ -331,7 +331,7 @@ And its impact still exists today.
 ---
 
 ## 🏁 Final Thoughts: Not Dead — Just Evolved
-![Image](Images/The%20Death%20of%20jQuery%20Not%20Really/jq12.png)
+![Image](../Images/The%20Death%20of%20jQuery%20Not%20Really/jq12.png)
 
 The “death of jQuery” is a myth created by trend-focused discussions.
 

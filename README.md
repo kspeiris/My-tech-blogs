@@ -38,20 +38,20 @@ Each article includes:
 Technical writing is an essential skill for engineers.
 This repository serves as my **knowledge base** and **learning journal** where I document concepts, tools, and project experiences.
 
-1. [Modern ERP Systems in 2026: A Functional Overview](A_Functional_Overview_of_Modern_ERP_Systems.md)
-2. [Dexie.js: Build Real Database-Powered Web Apps - No Backend Required](Dexie.js_Build_Real_Database.md)
-3. [Modern Bot Detection Series - Part 1: The Rise of Smart Bots - Why CAPTCHA Is No Longer Enough](The_Rise_of_Smart_Bots.md)
-4. [The Death of jQuery? Not Really.](The_Death_of_jQuery_Not_Really.md)
-5. [JavaScript vs TypeScript](JavaScript_vs_TypeScript.md)
-6. [Modern Bot Detection Series - Part 2: Understanding Coordinated Bot Attacks in Modern Applications](Understanding_Coordinated_Bot_Attacks_in_Modern_Applications.md)
-7. [Why Developers Should Learn Business Skills](Why_Developers_Should_Learn_Business_Skills.md)
-8. [The Rise of AI-Assisted Development](The_Rise_of_AI-Assisted_Development.md)
-9. [Modern Bot Detection Series - Part 3: Behavioral Fingerprinting](Behavioral_Fingerprinting_Spotting%20Bots_by_How_They_Act.md)
-10. [Are Frameworks Making Developers Worse?](Are_Frameworks_Making_Developers_Worse.md)
-11. [Modern Bot Detection Series - Part 4: Machine Learning for Bot Detection](Machine_Learning_for_Bot_Detection.md)
-12. [The Hidden Cost of "Modern JavaScript"](The_Hidden_Cost_of_“Modern_JavaScript”.md)
-13. [Modern Bot Detection Series - Part 5: Cross-Platform Bot Detection](Cross-Platform_Bot_Detection.md)
-14. [Building Enterprise UI Components That Scale](Building_Enterprise_UI_Components_That_Scale.md)
+1. [Modern ERP Systems in 2026: A Functional Overview](Articles/A_Functional_Overview_of_Modern_ERP_Systems.md)
+2. [Dexie.js: Build Real Database-Powered Web Apps - No Backend Required](Articles/Dexie.js_Build_Real_Database.md)
+3. [Modern Bot Detection Series - Part 1: The Rise of Smart Bots - Why CAPTCHA Is No Longer Enough](Articles/The_Rise_of_Smart_Bots.md)
+4. [The Death of jQuery? Not Really.](Articles/The_Death_of_jQuery_Not_Really.md)
+5. [JavaScript vs TypeScript](Articles/JavaScript_vs_TypeScript.md)
+6. [Modern Bot Detection Series - Part 2: Understanding Coordinated Bot Attacks in Modern Applications](Articles/Understanding_Coordinated_Bot_Attacks_in_Modern_Applications.md)
+7. [Why Developers Should Learn Business Skills](Articles/Why_Developers_Should_Learn_Business_Skills.md)
+8. [The Rise of AI-Assisted Development](Articles/The_Rise_of_AI-Assisted_Development.md)
+9. [Modern Bot Detection Series - Part 3: Behavioral Fingerprinting](Articles/Behavioral_Fingerprinting_Spotting%20Bots_by_How_They_Act.md)
+10. [Are Frameworks Making Developers Worse?](Articles/Are_Frameworks_Making_Developers_Worse.md)
+11. [Modern Bot Detection Series - Part 4: Machine Learning for Bot Detection](Articles/Machine_Learning_for_Bot_Detection.md)
+12. [The Hidden Cost of "Modern JavaScript"](Articles/The_Hidden_Cost_of_“Modern_JavaScript”.md)
+13. [Modern Bot Detection Series - Part 5: Cross-Platform Bot Detection](Articles/Cross-Platform_Bot_Detection.md)
+14. [Building Enterprise UI Components That Scale](Articles/Building_Enterprise_UI_Components_That_Scale.md)
 ---
 
 ## Topics I Write About

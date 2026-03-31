@@ -4,7 +4,7 @@
 > 📖 Originally published on Medium  
 > https://medium.com/@kavindup52
 
-![Images](Images/JavaScript_vs_TypeScript/ts1.png)
+![Images](../Images/JavaScript_vs_TypeScript/ts1.png)
 
 Web development moves at warp speed. New frameworks drop every month, AI tools write half your code, and best practices shift faster than you can say "npm install".
 
@@ -20,7 +20,7 @@ Let's dive deep: history, mechanics, trade-offs, real stats, examples, and a no-
 
 ## 🌍 What is JavaScript? (A Quick Refresher)
 
-![Images](Images/JavaScript_vs_TypeScript/ts2.png)
+![Images](../Images/JavaScript_vs_TypeScript/ts2.png)
 
 JavaScript (ES6+) is the heartbeat of the web. Created in 10 days back in 1995 by Brendan Eich, it's now everywhere:
 
@@ -42,7 +42,7 @@ But freedom has a price…
 
 ## ⚠️ JavaScript's Dark Side: The Runtime Surprise Party
 
-![Images](Images/JavaScript_vs_TypeScript/ts3.png)
+![Images](../Images/JavaScript_vs_TypeScript/ts3.png)
 
 Because JS is dynamically typed, types are checked only when code runs.
 
@@ -74,7 +74,7 @@ In 50k+ line apps with 10+ team members? Painful. Bugs hide until production.
 
 ## 🔷 TypeScript: JavaScript with Adult Supervision
 
-![Images](Images/JavaScript_vs_TypeScript/ts4.png)
+![Images](../Images/JavaScript_vs_TypeScript/ts4.png)
 
 TypeScript (2012, by Microsoft) is JavaScript + optional static types + great tooling.
 
@@ -91,7 +91,7 @@ JavaScript + compile-time safety net + autocompletion on steroids + self-documen
 
 ## 🧠 Deep Dive: Static Typing in Action
 
-![Images](Images/JavaScript_vs_TypeScript/ts5.png)
+![Images](../Images/JavaScript_vs_TypeScript/ts5.png)
 
 **Plain JS:**
 
@@ -128,13 +128,13 @@ Advanced TS features in 2026:
 
 ## 🆚 Side-by-Side Comparison (2026 Edition)
 
-![Images](Images/JavaScript_vs_TypeScript/ts6.png)
+![Images](../Images/JavaScript_vs_TypeScript/ts6.png)
 
 *(Sources: Stack Overflow 2025, GitHub Octoverse 2025 (TS overtook JS & Python in contribs), JetBrains 2025.)*
 
 ## 💥 Why Enterprises & Big Teams Went All-In on TypeScript
 
-![Images](Images/JavaScript_vs_TypeScript/ts7.png)
+![Images](../Images/JavaScript_vs_TypeScript/ts7.png)
 
 - Google, Microsoft, Vercel, Shopify, Asana, Slack → massive TS codebases
 - Angular: TS from day one
@@ -151,7 +151,7 @@ Benefits:
 
 ## 🔧 More Real-World Examples
 
-![Images](Images/JavaScript_vs_TypeScript/ts8.png)
+![Images](../Images/JavaScript_vs_TypeScript/ts8.png)
 
 ### API Response Handling
 
@@ -196,7 +196,7 @@ function Button({ label, onClick, disabled = false }: Props) {
 
 ## 📈 2026 Industry Pulse (Fresh Data)
 
-![Images](Images/JavaScript_vs_TypeScript/ts9.png)
+![Images](../Images/JavaScript_vs_TypeScript/ts9.png)
 
 - **GitHub Octoverse 2025:** TypeScript #1 language by contributors (2.6M+ monthly, +66% YoY). Overtook JS & Python.
 - **Stack Overflow 2025:** TS at ~44% usage, **84%+ satisfaction** (among highest).
@@ -209,7 +209,7 @@ function Button({ label, onClick, disabled = false }: Props) {
 
 ## 🤔 Beginners: Don't Skip JavaScript!
 
-![Images](Images/JavaScript_vs_TypeScript/ts10.png)
+![Images](../Images/JavaScript_vs_TypeScript/ts10.png)
 
 **Mandatory order:**
 
@@ -221,7 +221,7 @@ Skipping to TS first confuses you since TS is JS with extras.
 
 ## 🏁 Final Verdict for 2026
 
-![Images](Images/JavaScript_vs_TypeScript/ts11.png)
+![Images](../Images/JavaScript_vs_TypeScript/ts11.png)
 
 **Use JavaScript if:**
 

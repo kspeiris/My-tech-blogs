@@ -1,6 +1,6 @@
 # The Hidden Cost of "Modern JavaScript"
 
-![images](Images\The_Hidden_Cost_of_“Modern_JavaScript”\hi1.png)
+![images](../Images/The_Hidden_Cost_of_“Modern_JavaScript”/hi1.png)
 
 > 📖 Originally published on Medium  
 > https://medium.com/@kavindup52/the-hidden-cost-of-modern-javascript-63feec61b8a0
@@ -18,7 +18,7 @@ In this post we explain three big hidden costs:
 
 ## 📦 The Bundle Size Crisis - When Modern Means Heavy
 
-![images](Images\The_Hidden_Cost_of_“Modern_JavaScript”\hi2.png)
+![images](../Images/The_Hidden_Cost_of_“Modern_JavaScript”/hi2.png)
 One easy-to-see problem with modern JavaScript is that the amount of code sent to users (called bundle size) keeps getting bigger. This is the JavaScript that downloads before the page feels ready to use.
 
 Big JavaScript files cause many issues:
@@ -54,7 +54,7 @@ This is not just a theory:
 
 ## 🧰 Tooling Complexity - The Invisible Development Tax
 
-![images](Images\The_Hidden_Cost_of_“Modern_JavaScript”\hi3.png)
+![images](../Images/The_Hidden_Cost_of_“Modern_JavaScript”/hi3.png)
 
 Modern JavaScript tools promise quicker builds and nicer work for developers. But they also add a huge amount of complicated setup that most teams find hard to handle.
 
@@ -97,7 +97,7 @@ This is not just annoying. It creates bigger issues:
 
 ## 😓 Ecosystem Churn and Developer Burnout
 
-![images](Images\The_Hidden_Cost_of_“Modern_JavaScript”\hi4.png)
+![images](../Images/The_Hidden_Cost_of_“Modern_JavaScript”/hi4.png)
 
 The hardest cost to measure but the one developers feel most is how fast everything changes in JavaScript, and how tiring it gets.
 
@@ -134,7 +134,7 @@ Then:
 
 ## 🎯 So What Does This Really Cost?
 
-![images](Images\The_Hidden_Cost_of_“Modern_JavaScript”\hi5.png)
+![images](../Images/The_Hidden_Cost_of_“Modern_JavaScript”/hi5.png)
 
 These problems create more than just tech issues they hit business and teams in clear ways:
 
@@ -152,7 +152,7 @@ In bad cases:
 
 ## 🔥 Balancing Past and Future
 
-![images](Images\The_Hidden_Cost_of_“Modern_JavaScript”\hi6.png)
+![images](../Images/The_Hidden_Cost_of_“Modern_JavaScript”/hi6.png)
 
 Modern JavaScript is not bad by itself but we need smart choices in its world:
 

@@ -5,13 +5,13 @@
 > https://medium.com/@kavindup52/the-rise-of-ai-assisted-development-in-2026-78ed80966c7f
 
 ---
-![images](Images/The_Rise_of_AI-Assisted_Development/ri1.png)
+![images](../Images/The_Rise_of_AI-Assisted_Development/ri1.png)
 
 ## Introduction
 
 Software development in 2026 looks dramatically different from just a few years ago. AI-assisted tools are no longer experimental sidekicks; they have become part of the daily workflow for developers across startups, enterprises, and open-source communities.
 
-![images](Images/The_Rise_of_AI-Assisted_Development/ri2.png)
+![images](../Images/The_Rise_of_AI-Assisted_Development/ri2.png)
 
 From writing boilerplate code to debugging complex systems, AI tools are reshaping how developers think, build, and collaborate. But the reality is more nuanced than the hype. Tools like GitHub Copilot, Cursor, and Claude Code are not just autocomplete on steroids; they are enabling entirely new ways of working that blend human creativity with machine efficiency.
 
@@ -23,7 +23,7 @@ Let us explore what is really happening.
 
 ## How Developers Actually Use AI in Real Workflows
 
-![images](Images/The_Rise_of_AI-Assisted_Development/ri3.png)
+![images](../Images/The_Rise_of_AI-Assisted_Development/ri3.png)
 
 One of the biggest misconceptions is that developers simply "ask AI to build apps." In reality, the workflow has evolved into human-AI collaboration, where AI acts as a tireless assistant, but humans remain the architects.
 
@@ -31,7 +31,7 @@ To illustrate, consider a typical day for a full-stack developer at a mid-sized 
 
 ### The "15-Minute Waterfall" Planning Phase
 
-![images](Images/The_Rise_of_AI-Assisted_Development/ri4.png)
+![images](../Images/The_Rise_of_AI-Assisted_Development/ri4.png)
 
 Before writing code, developers now spend time collaborating with AI to:
 
@@ -46,7 +46,7 @@ This short planning phase, often just 15 minutes, dramatically reduces downstrea
 
 ### AI Handles the Repetitive Work
 
-![images](Images/The_Rise_of_AI-Assisted_Development/ri5.png)
+![images](../Images/The_Rise_of_AI-Assisted_Development/ri5.png)
 
 Developers now use AI tools to automate:
 
@@ -69,7 +69,7 @@ This frees developers to focus on:
 
 ### Context Is Everything
 
-![images](Images/The_Rise_of_AI-Assisted_Development/ri6.png)
+![images](../Images/The_Rise_of_AI-Assisted_Development/ri6.png)
 
 AI performs best when given detailed context:
 
@@ -92,7 +92,7 @@ This loop is now known as **AI-assisted engineering**. In agentic setups, such a
 
 ## Real Productivity Gains vs. the Hype
 
-![images](Images/The_Rise_of_AI-Assisted_Development/ri7.png)
+![images](../Images/The_Rise_of_AI-Assisted_Development/ri7.png)
 
 AI promises massive productivity gains, with headlines touting "10x developers." But the real data from 2026 tells a more balanced story, backed by studies from McKinsey, Gartner, and independent benchmarks.
 
@@ -112,7 +112,7 @@ Many developers report saving 10+ hours per week by offloading repetitive work. 
 
 ### Where the Hype Breaks Down
 
-![images](Images/The_Rise_of_AI-Assisted_Development/ri8.png)
+![images](../Images/The_Rise_of_AI-Assisted_Development/ri8.png)
 
 However, AI has introduced new bottlenecks:
 
@@ -127,7 +127,7 @@ AI often gets projects 60% done quickly, but the final 40% still requires human 
 
 ## New Skills Developers Must Learn
 
-![images](Images/The_Rise_of_AI-Assisted_Development/ri9.png)
+![images](../Images/The_Rise_of_AI-Assisted_Development/ri9.png)
 
 As AI takes over routine coding, the required skill set is evolving fast. By 2026, many job postings emphasize AI fluency alongside traditional tech stacks.
 
@@ -185,7 +185,7 @@ You cannot review what you do not understand. Plus, emerging practices like "vib
 
 ### Skill Shift Summary
 
-![images](Images/The_Rise_of_AI-Assisted_Development/ri10.png)
+![images](../Images/The_Rise_of_AI-Assisted_Development/ri10.png)
 
 | Skill Area | Key Examples | Why It Matters | Real-World Tip |
 |------------|--------------|----------------|----------------|
@@ -197,7 +197,7 @@ You cannot review what you do not understand. Plus, emerging practices like "vib
 
 ## The Future of Junior vs. Senior Roles
 
-![images](Images/The_Rise_of_AI-Assisted_Development/ri11.png)
+![images](../Images/The_Rise_of_AI-Assisted_Development/ri11.png)
 
 AI is reshaping the developer career ladder, compressing entry points while amplifying expertise.
 
@@ -234,7 +234,7 @@ As AI handles more implementation, seniors focus more on strategy and direction.
 
 ## The Big Picture
 
-![images](Images/The_Rise_of_AI-Assisted_Development/ri12.png)
+![images](../Images/The_Rise_of_AI-Assisted_Development/ri12.png)
 
 AI-assisted development is not about replacing developers.
 

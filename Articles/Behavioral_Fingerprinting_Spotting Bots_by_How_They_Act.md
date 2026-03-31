@@ -3,7 +3,7 @@
 
 ## 🧠 Behavioral Fingerprinting: Spotting Bots by How They Act
 
-![images](Images/Behavioral_Fingerprinting_Spotting_Bots_by_How_They_Act/fi1.png)
+![images](../Images/Behavioral_Fingerprinting_Spotting_Bots_by_How_They_Act/fi1.png)
 
 > 📖 Originally published on Medium  
 > https://medium.com/@kavindup52/modern-bot-detection-series-part-3-16a82a38e89a
@@ -16,7 +16,7 @@ Now we explain a smart trick websites use: They watch how you move, click, type,
 
 ## 🔍 What Is Behavioral Fingerprinting?
 
-![images](Images/Behavioral_Fingerprinting_Spotting_Bots_by_How_They_Act/fi2.png)
+![images](../Images/Behavioral_Fingerprinting_Spotting_Bots_by_How_They_Act/fi2.png)
 
 Imagine every person has their own style of using a phone or computer. You move the mouse a certain way. You type with little pauses. You scroll and stop to read.
 
@@ -28,7 +28,7 @@ This method catches bots quietly in the background no annoying puzzles for real 
 
 ## 🖱 How Real People Move the Mouse (and How Bots Mess Up)
 
-![images](Images/Behavioral_Fingerprinting_Spotting_Bots_by_How_They_Act/fi3.png)
+![images](../Images/Behavioral_Fingerprinting_Spotting_Bots_by_How_They_Act/fi3.png)
 Real humans move the mouse like this:
 
 - The path curves and wiggles a bit (not a perfect straight line).
@@ -53,7 +53,7 @@ Even when bots add fake randomness, the overall pattern still looks robotic too 
 
 ## ⌨ How Real People Type (and Why Bots Sound Fake)
 
-![images](Images/Behavioral_Fingerprinting_Spotting_Bots_by_How_They_Act/fi4.png)
+![images](../Images/Behavioral_Fingerprinting_Spotting_Bots_by_How_They_Act/fi4.png)
 
 Real people type with personality:
 
@@ -78,7 +78,7 @@ Even one missing natural hesitation or too-perfect timing gives the bot away.
 
 ## 📜 How Real People Scroll and Browse (and Bot Clues)
 
-![images](Images/Behavioral_Fingerprinting_Spotting_Bots_by_How_They_Act/fi5.png)
+![images](../Images/Behavioral_Fingerprinting_Spotting_Bots_by_How_They_Act/fi5.png)
 
 Real humans explore pages naturally:
 
@@ -104,7 +104,7 @@ If someone views **100% of the page in 3 seconds** with no stops that's almost a
 
 ## 📊 Turning Actions into a Simple Score
 
-![images](Images/Behavioral_Fingerprinting_Spotting_Bots_by_How_They_Act/fi6.png)
+![images](../Images/Behavioral_Fingerprinting_Spotting_Bots_by_How_They_Act/fi6.png)
 The system doesn't save your every move forever. It turns all the small actions into easy numbers:
 
 - Average mouse speed and how much it changes.
@@ -148,7 +148,7 @@ This follows privacy rules (like **GDPR**). The goal is stopping bad bots, not s
 
 ## 🌐 How It Fits with Other Protections
 
-![images](Images/Behavioral_Fingerprinting_Spotting_Bots_by_How_They_Act/fi7.png)
+![images](../Images/Behavioral_Fingerprinting_Spotting_Bots_by_How_They_Act/fi7.png)
 
 Behavioral checks are strongest when mixed with:
 

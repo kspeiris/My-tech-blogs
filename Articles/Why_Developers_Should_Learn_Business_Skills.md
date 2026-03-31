@@ -3,7 +3,7 @@
 > 📖 Originally published on Medium  
 > https://medium.com/@kavindup52/why-developers-should-learn-business-skills-in-2026-1528a739064d
 
-![Image](Images/Why_Developers_Should_Learn_Business_Skills/bu1.png)
+![Image](../Images/Why_Developers_Should_Learn_Business_Skills/bu1.png)
 
 In today's tech industry, writing clean code is no longer enough. The developers who advance fastest, earn more, and build meaningful products are not just technical experts; they understand business.
 
@@ -17,7 +17,7 @@ Let us explore why business skills are now a must-have for developers and how yo
 
 ## The Developer Role Is Evolving
 
-![Image](Images/Why_Developers_Should_Learn_Business_Skills/bu2.png)
+![Image](../Images/Why_Developers_Should_Learn_Business_Skills/bu2.png)
 
 Years ago, developers were often seen as specialists who worked mainly on implementation. Today, the most impactful engineers operate at the intersection of technology and business.
 
@@ -47,7 +47,7 @@ This is how developers become strategic thinkers instead of task executors. As A
 
 ## Business Skills Accelerate Career Growth
 
-![Image](Images/Why_Developers_Should_Learn_Business_Skills/bu3.png)
+![Image](../Images/Why_Developers_Should_Learn_Business_Skills/bu3.png)
 
 The higher you go, the more business knowledge matters.
 
@@ -71,7 +71,7 @@ Business literacy turns you from a **cost center** into a **value creator**.
 
 ## Build Products That Actually Succeed
 
-![Image](Images/Why_Developers_Should_Learn_Business_Skills/bu4.png)
+![Image](../Images/Why_Developers_Should_Learn_Business_Skills/bu4.png)
 
 Have you ever built a feature that nobody used?
 
@@ -102,7 +102,7 @@ This mindset produces products that succeed in the real world.
 
 ## Entrepreneurship Becomes Possible
 
-![Image](Images/Why_Developers_Should_Learn_Business_Skills/bu5.png)
+![Image](../Images/Why_Developers_Should_Learn_Business_Skills/bu5.png)
 
 Many successful founders started as developers.
 
@@ -131,7 +131,7 @@ A developer with business skills can launch globally from anywhere. The barrier 
 
 ## High-Impact Business Skills for Developers
 
-![Image](Images/Why_Developers_Should_Learn_Business_Skills/bu6.png)
+![Image](../Images/Why_Developers_Should_Learn_Business_Skills/bu6.png)
 
 You do not need an MBA. Focus on high-leverage skills.
 
@@ -206,7 +206,7 @@ These are career-defining abilities.
 
 ## How Developers Can Start Learning Business
 
-![Image](Images/Why_Developers_Should_Learn_Business_Skills/bu7.png)
+![Image](../Images/Why_Developers_Should_Learn_Business_Skills/bu7.png)
 
 You can start without quitting your job or enrolling in a degree.
 
@@ -260,7 +260,7 @@ This is one of the fastest ways to learn.
 
 ## The Future Belongs to Hybrid Developers
 
-![Image](Images/Why_Developers_Should_Learn_Business_Skills/bu8.png)
+![Image](../Images/Why_Developers_Should_Learn_Business_Skills/bu8.png)
 
 The most valuable professionals in tech today combine:
 
@@ -280,7 +280,7 @@ Business skills are no longer optional; they are a competitive advantage. In an 
 
 ## Final Thoughts
 
-![Image](Images/Why_Developers_Should_Learn_Business_Skills/bu9.png)
+![Image](../Images/Why_Developers_Should_Learn_Business_Skills/bu9.png)
 
 Do not stop at writing code.
 

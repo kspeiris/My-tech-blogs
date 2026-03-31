@@ -3,9 +3,9 @@
 # Building Enterprise UI Components That Scale
 ## A practical guide using real enterprise scenarios
 
-![Images](Images\Building_Enterprise_UI_Components_That_Scale\sc1.png)
+![Images](../Images/Building_Enterprise_UI_Components_That_Scale/sc1.png)
 
-> 📖 Originally publised on Medium  
+> 📖 Originally published on Medium  
 > https://medium.com/@kavindup52/building-enterprise-ui-components-that-scale-4965460b82a6
 
 Enterprise apps are not simple home pages. They help finance teams, warehouse workers, HR people, and operations staff who use data every single day. When you make UI components for these big systems, you are making useful tools not just pretty decorations.
@@ -21,7 +21,7 @@ In this article, we explain how to create UI components that can grow big, using
 
 ## 🏢 What "Enterprise Scale" Really Means
 
-![Images](Images\Building_Enterprise_UI_Components_That_Scale\sc2.png)
+![Images](../Images/Building_Enterprise_UI_Components_That_Scale/sc2.png)
 In real company software, the interface needs to deal with:
 
 - Thousands or even millions of records  
@@ -43,7 +43,7 @@ Enterprise scale means the app stays fast, easy to update, and very clear to use
 
 ## 📊 Real Scenario: Sales Management Dashboard
 
-![Images](Images\Building_Enterprise_UI_Components_That_Scale\sc3.png)
+![Images](../Images/Building_Enterprise_UI_Components_That_Scale/sc3.png)
 Picture this: you are making a dashboard for a medium-sized company that sells and delivers goods.
 
 Users want to:
@@ -61,7 +61,7 @@ The table is the main and most important part of the whole system.
 ---
 
 ## 🧾 Designing Tables That Scale
-![Images](Images\Building_Enterprise_UI_Components_That_Scale\sc4.png)
+![Images](../Images/Building_Enterprise_UI_Components_That_Scale/sc4.png)
 
 Tables in big company systems need to have these features:
 
@@ -108,7 +108,7 @@ Always use **server-side pagination** (get small chunks of data from the server 
 
 ## 🔍 Filters: Making Data Easy to Use
 
-![Images](Images\Building_Enterprise_UI_Components_That_Scale\sc5.png)
+![Images](../Images/Building_Enterprise_UI_Components_That_Scale/sc5.png)
 
 Company users do not want to scroll forever they want to filter quickly to find what they need.
 
@@ -141,7 +141,7 @@ Good filters should:
 
 ## 📄 Pagination: Keeping the Interface Fast
 
-![Images](Images\Building_Enterprise_UI_Components_That_Scale\sc6.png)
+![Images](../Images/Building_Enterprise_UI_Components_That_Scale/sc6.png)
 
 Common ways to split pages:
 
@@ -175,7 +175,7 @@ This keeps:
 
 ## 🔄 Component Communication (How Components Talk to Each Other)
 
-![Images](Images\Building_Enterprise_UI_Components_That_Scale\sc7.png)
+![Images](../Images/Building_Enterprise_UI_Components_That_Scale/sc7.png)
 In big apps, components almost never work alone.
 
 Example layout:
@@ -214,7 +214,7 @@ In very large apps, avoid passing props through many levels (**prop drilling**) 
 
 ## 🧠 State Management Basics
 
-![Images](Images\Building_Enterprise_UI_Components_That_Scale\sc8.png)
+![Images](../Images/Building_Enterprise_UI_Components_That_Scale/sc8.png)
 
 When apps get bigger, keeping data only inside one component is not enough.
 
@@ -279,7 +279,7 @@ Everything happens in a clear order. No surprise changes or bugs.
 
 ## 🏗 Real Enterprise Architecture Pattern
 
-![Images](Images\Building_Enterprise_UI_Components_That_Scale\sc9.png)
+![Images](../Images/Building_Enterprise_UI_Components_That_Scale/sc9.png)
 
 A clean and growable setup usually has:
 

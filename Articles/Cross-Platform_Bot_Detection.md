@@ -3,7 +3,7 @@
 
 ## 📱 Cross-Platform Bot Detection: Web vs Mobile Challenges
 
-![Images](Images\Cross-Platform_Bot_Detection\mo1.png)
+![Images](../Images/Cross-Platform_Bot_Detection/mo1.png)
 
 > 📖 Originally published on Medium  
 > https://medium.com/@kavindup52/modern-bot-detection-series-part-5-f89ce9894505
@@ -24,7 +24,7 @@ Because catching bots in a web browser is very different from catching them insi
 
 ## 🌐 Web-Based Interaction Signals
 
-![Images](Images\Cross-Platform_Bot_Detection\mo2.png)
+![Images](../Images/Cross-Platform_Bot_Detection/mo2.png)
 
 On websites, we usually watch how people behave by looking at:
 
@@ -58,7 +58,7 @@ That's why important decisions should happen on the **server side**, not just in
 
 ## 📱 Mobile Interaction Signals
 
-![Images](Images\Cross-Platform_Bot_Detection\mo3.png)
+![Images](../Images/Cross-Platform_Bot_Detection/mo3.png)
 
 Mobile apps work in a different way.
 
@@ -88,7 +88,7 @@ So, collecting behavior data on mobile must be very light and smart it can't slo
 
 ## ⚡ The Performance Constraint
 
-![Images](Images\Cross-Platform_Bot_Detection\mo4.png)
+![Images](../Images/Cross-Platform_Bot_Detection/mo4.png)
 
 On both web and mobile, bot detection has to be:
 
@@ -115,7 +115,7 @@ A few strong signals often work better than tons of weak or noisy ones.
 
 ## 🔄 Consistency Across Platforms
 
-![Images](Images\Cross-Platform_Bot_Detection\mo5.png)
+![Images](../Images/Cross-Platform_Bot_Detection/mo5.png)
 Bot detection must work the same way on web and mobile.
 
 Problems include:
@@ -146,7 +146,7 @@ These general ideas can work on both web and mobile.
 
 ## 🧠 Model Deployment Strategies
 
-![Images](Images\Cross-Platform_Bot_Detection\mo6.png)
+![Images](../Images/Cross-Platform_Bot_Detection/mo6.png)
 
 There are different ways to run the detection:
 
@@ -178,7 +178,7 @@ The hybrid way is often the best in real life. It keeps things fast while still 
 
 ## 🔐 Privacy and Compliance Considerations
 
-![Images](Images\Cross-Platform_Bot_Detection\mo7.png)
+![Images](../Images/Cross-Platform_Bot_Detection/mo7.png)
 Systems on web and mobile must follow privacy laws like:
 
 - GDPR (Europe)  
@@ -235,7 +235,7 @@ The best protection is not tied to one platform. It's driven by understanding re
 
 ## 🏁 Final Thoughts
 
-![Images](Images\Cross-Platform_Bot_Detection\mo8.png)
+![Images](../Images/Cross-Platform_Bot_Detection/mo8.png)
 
 Bot detection has moved way past simple CAPTCHA.
 
